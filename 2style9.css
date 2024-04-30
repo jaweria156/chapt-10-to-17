@@ -1,0 +1,203 @@
+@media screen and (min-width: 480px) {
+body{
+    background-color: #FDE5DF;
+    width: 99%;
+    height: 100%;
+}
+.header{           
+    background-color:#97025e;
+    width: 99%;
+    height: 130px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.logo img{
+  
+    width:75px;
+    height:75px;
+    margin-right: -8ch;
+    margin-bottom: -5%;
+    margin-top: 25px;
+    align-content:center;
+    display: inline-block;
+    padding: 0px;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size:xx-large;
+    
+    text-align:center;
+    color:black;
+   
+    /*margin-right: -100%;*/
+    
+}  
+
+.art p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    padding: 10px;
+    font-weight: 50px;
+    margin-bottom: -40%;
+    margin-right: 5ch;
+    font-size:xx-large;
+    display:inline-block;
+    text-align:center;
+
+}
+
+.nav ul{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    display: inline-flex;
+    padding: 40px;   
+    margin-bottom: 4in;
+    justify-content: space-around;
+       
+    padding-right: 3%;   
+}
+
+.nav a{
+    color:white;
+    margin: 16px;  
+    
+}
+.nav ul{
+    list-style: none;
+}
+
+.portion{
+    background-color: #E9B0A2;
+    text-align: center;
+    
+}
+.portion h1{    
+    color:#97025e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+.portion h2{
+    color:#97025e;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.portion p{    
+    color:#97025e;
+    text-align: center;
+}
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;    
+    color:#97025e;
+    text-align: center;    
+}
+.image-folder{
+    background-color: #EFCFC9;
+    width:99.5%;    
+}
+.sub{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: 40px;
+    color:#97025e;
+    padding: 23px;
+
+}
+.collections img{
+    width: 170px;
+    height: 170px;
+    padding: 5px;
+}
+
+.decoration{
+    background-color:#EFCFC9;
+    text-align: left;
+    padding: 20px;
+}
+.decoration h3{
+    color:#97025e;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;  
+    margin-top: -28%;
+    margin-left: 25%;
+}
+.decoration h5{
+    color:#97025e;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium; 
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.decoration h6{
+    color:#97025e;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+
+
+video{
+    width: 15%;
+    height: 25%;
+    margin-top: 5%;
+    margin-left: 3%;
+    padding: 35px;
+    margin-inline-end: 10%;
+}
+.form{
+    background-color: #E9B0A2;
+    padding: 30px;
+}
+.cif{
+    color: #97025e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.footer{
+    text-align: center;     
+    background-color:#97025e;
+    width: 99%;
+    padding:5px; 
+}
+.fit img{
+    width:40px;
+    height:40px;
+}
+.jasin img{
+    width:200px;
+    height:200px;
+}
+h4 ,h4 a{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+h3{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+    
+}
+
+@media screen and (min-width: 1280px) {
+    .art p{
+        margin-left: -111.8px;
+    }
+
+    }

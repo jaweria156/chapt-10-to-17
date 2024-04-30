@@ -1,0 +1,140 @@
+@media screen and (min-width: 480px) {
+body {   
+    background-image: url('html-images/resin-cover.webp');
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.header{           
+    background-color: #97025e;
+    width: 99%;
+    height: 130px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.logo img{
+  
+    width:75px;
+    height:75px;
+    margin-right: -8ch;
+    margin-bottom: -5%;
+    margin-top: 25px;
+    align-content:center;
+    display: inline-block;
+    padding: 0px;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size:xx-large;
+    
+    text-align:center;
+    color:black;
+   
+    /*margin-right: -100%;*/
+    
+}  
+
+.art p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    padding: 10px;
+    font-weight: 50px;
+    margin-bottom: -40%;
+    margin-right: 5ch;
+    font-size:xx-large;
+    display:inline-block;
+    text-align:center;
+
+}
+
+.nav ul{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    display: inline-flex;
+    padding: 40px;   
+    margin-bottom: 4in;
+    justify-content: space-around;
+       
+    padding-right: 3%;
+}
+
+.nav a{
+    color:white;
+    margin: 16px;  
+    
+}
+.nav ul{
+    list-style: none;
+}
+video{
+    width: 40%;
+    height: 200px;
+    
+}
+.designs img{
+    width: 170px;
+    height: 170px;
+    padding: 10px;   
+}
+
+.headings{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.list li{
+    color:black;
+    display: list-item;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    padding:1px;
+
+}
+
+.footer{
+    text-align: center;     
+    background-color:#97025e;
+    width: 99%;
+    padding:5px; 
+}
+.fit img{
+    width:40px;
+    height:40px;
+}
+.jasin img{
+    width:200px;
+    height:200px;
+}
+h4 ,h4 a{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+h3{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+}
+
+
+@media screen and (min-width: 1280px) {
+    .art p{
+        margin-left: -111.8px;
+    }
+
+    }
